@@ -1,3 +1,4 @@
 # bhaikacollege-demo
-this is my first git repository
-author-yogesh kaira
+this is my first git repository.
+<br>
+Author-yogesh kaira
