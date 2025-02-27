@@ -1,6 +1,6 @@
 # bhaikacollege-demo
 this is my first git repository.
 <br>
-Author-yogesh kaira
+Author-Yogesh kaira
 <br>
 Age-19
